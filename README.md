@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sigltech
-- Currently workig as a full stack React and Kotlin developer
+- Currently working as a full stack React and Kotlin Engineer
 - 📫 How to reach me: reach me through richardoskar00@gmail.com
 
 <!---
