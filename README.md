@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sigltech
-- I'm  full-stack engineer, working at Unity with a current focus on backend development
+- I'm  full-stack engineer, with a current focus on backend development
 - Technologies I work with on a daily:
     - React
     - Kotlin
